@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">МоёПриложение1</string>
+    <string name="button1">Кнопка</string>
+    <string name="hello_world">Привет, мир!</string>
+    <string name="open_second">Открыть второе окно</string>
+    <string name="cat_tostring">Возраст кота %s: %d</string>
+    <string name="return_back">Вернуться назад</string>
+    <string name="click_me">Нажми на меня</string>
+    <string name="clicked_out_max">Нажал %d/%d раз</string>
+</resources>

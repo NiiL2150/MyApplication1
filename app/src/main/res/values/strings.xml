@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApplication1</string>
+    <string name="button1">Button</string>
+    <string name="hello_world">Hello, world!</string>
+    <string name="open_second">Open second activity</string>
+    <string name="cat_tostring">Cat %s is %d years old</string>
+    <string name="return_back">Return back</string>
+    <string name="click_me">Click me</string>
+    <string name="clicked_out_max">Clicked %d/%d times</string>
+</resources>
